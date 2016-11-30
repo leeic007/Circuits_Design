@@ -1,14 +1,12 @@
-# Circuits_Design
-## I-RFIC
-### 1.1 PA
-### 1.2 LNA
-### 1.3 VCO
-## II-Mixed-signal
-### 2.1 PLL
-### 2.2 ADC
-## III-Modeling
-### 3.1 Verilog-AMS
-## IV-Communication System
-## V-Software
-### 5.1 ADS2015
-### 5.2 Cadence_ic616
+# 电路设计（Circuits_Design）
+## 主要研究内容：
+- [前言](#preparation)
+- [课程列表](#curriculum)
+- [推荐学习路线](#learning_route)
+ - [电路设计基础](#circuit_basic)
+ - [软件使用快速入门](#software_guidelines)
+ - [电路模块设计](#module_design) 
+ - [系统设计及行为级仿真](#system_Behavior)
+- [推荐书籍列表](#booklists)
+- [应用举例](#machine_learning_median)
+- [测试/测量基础](#test_measurement_basic)
