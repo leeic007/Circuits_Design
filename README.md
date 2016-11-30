@@ -1,6 +1,6 @@
 # Circuits_Design
 Containing model and design methodologyi
 
--RFIC
--Mixed-signal
--Modeling
+ -RFIC
+ -Mixed-signal
+ -Modeling
