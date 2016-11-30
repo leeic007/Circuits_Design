@@ -1,2 +1,6 @@
 # Circuits_Design
-Containing model and design methodology
+Containing model and design methodologyi
+
+-RFIC
+-Mixed-signal
+-Modeling
